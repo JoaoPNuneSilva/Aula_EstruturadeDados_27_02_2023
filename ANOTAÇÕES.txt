@@ -5,3 +5,12 @@ pint("1+1")
 A função print () é composta por argumentos. Pode-se utilizar mais de um argumento separado pela vírgula.
 
 Por padrão o separador da função print() é um "espaço". É possível alterar utilizando o comando sep="".
+
+INTRODUÇÃO DE DADOS CARACTERES
+STRINGS: são tipos de dados composto por texto ou caracteres. No Phyton os dados estão dentro de aspas, quando se utiliza-se a função print().
+print("texto")
+INTEIRO: Qualquer número positivo ou negativo que não contenha ponto vírgula é considerado número inteiro (int).
+print (11)
+print (-11)
+print (0)
+BOOLEANOS: É um tipo de dado lógico que pode ter apenas um de dois valoes possíveis: true or false
