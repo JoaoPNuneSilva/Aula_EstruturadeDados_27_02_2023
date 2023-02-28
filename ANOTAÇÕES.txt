@@ -1,0 +1,3 @@
+FUNÇÃO PRINT
+Exibe algo na tela,
+pint("1+1")
