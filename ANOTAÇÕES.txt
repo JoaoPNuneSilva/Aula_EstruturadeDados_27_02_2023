@@ -14,3 +14,14 @@ print (11)
 print (-11)
 print (0)
 BOOLEANOS: É um tipo de dado lógico que pode ter apenas um de dois valoes possíveis: true or false
+
+COERÇÃO DE TIPOS DE DADOS
+Na linguagem de programação Python é possível converter alguns tipos de dados, no qual chamamos de coerção
+
+VARIÁVEIS NO PYTHON
+Variáveis são utilizados para salvar dados na memória do computador.
+nome = "string"
+idade = 2023
+print (nome)
+print (str(idade) + "anos")
+print (idade, "anos")
