@@ -1,3 +1,5 @@
 FUNÇÃO PRINT
 Exibe algo na tela,
 pint("1+1")
+
+A função print () é composta por argumentos. Pode-se utilizar mais de um argumento separado pela vírgula.
